@@ -1,0 +1,9 @@
+* ls-server
+
+HTTP server for Lisp-Stat, serving plots, data frames, and DataTables views.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/ls-server.git      |
+| commit  | 0000000                                              |
+| systems | ls-server                                            |
+|---------+------------------------------------------------------|
